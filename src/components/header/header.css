@@ -1,0 +1,22 @@
+.headerTitle{
+    font-weight: 700;
+}
+
+.fstLtr{
+    color: cornflowerblue;
+}
+
+.navbar{
+    margin:0px 20px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.linkIcon{
+    height: 24px;
+    width: 24px;
+    padding-right: 2px;
+    vertical-align: text-bottom;
+    
+}
