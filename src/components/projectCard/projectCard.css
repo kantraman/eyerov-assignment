@@ -1,0 +1,8 @@
+.prjIco{
+    height: 16px;
+    width: 16px;
+}
+
+.prjCard{
+    box-shadow: rgba(0, 0, 0, 0.23) 0px 5px 20px, rgba(0, 0, 0, 0.30) 0px 5px 10px;
+}

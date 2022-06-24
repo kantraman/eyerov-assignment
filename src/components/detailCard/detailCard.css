@@ -1,0 +1,22 @@
+.detailsCard{
+    box-shadow: rgba(0, 0, 0, 0.23) 0px 5px 10px, rgba(0, 0, 0, 0.30) 0px 5px 10px;
+}
+
+.softCopy{
+    text-align: center;
+}
+
+.scBtn{
+    background-color: deeppink;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    line-height: 25px;
+    padding: 6px;
+    border-style: none;
+    box-shadow: 0 3px 6px 0 #333333, 0 3px 6px 0 #333333;
+}
+
+.scBtn:hover{
+    background-color: rgb(214, 78, 123);
+}
